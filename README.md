@@ -12,13 +12,6 @@ Your token is what you use to log the bot in.
 * Once you have coppied the token you may now paste it into the config file.
 * **MAKE SURE YOU PASTE IT BETWEEN THE SPEECH MARKS.**
 
- ### Your discord ID
- * To get the ID go to discords settings and go to the "Appearance".
- * Once you are on the Appearance tab, scroll down until you find "Developer Mode".
- * Turn on "Developer Mode"
- * Now that Developer Mode is on type a message on any server then right click on your name then click coppy id.
- * Paste the coppied ID into the "devID" section of your config.
- 
  * If you followed the stepts correctly your config file should now look like this:
   ```js 
   {
